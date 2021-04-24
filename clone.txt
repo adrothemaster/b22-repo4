@@ -1,0 +1,6 @@
+i just created remote repostory from githum account 
+by clicking on clone this seting it up in desktopand giving a name click create
+
+
+and cloned this repository optionaly select a location and clicked clone
+and time to start working localy
